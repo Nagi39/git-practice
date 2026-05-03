@@ -1,4 +1,4 @@
-#My first Repo -変更しています。
+#My first Repo -変更しています。変更その2
 Gitの練習中です
 新機能の説明
 VS Codeから編集してみた
